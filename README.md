@@ -3,10 +3,10 @@ code of cvpr HOI4D workshop action segmentation
 
 modified from https://github.com/hoi4d/HOI4D_ActionSeg
 
-## Usage
-
+## Train
 python train_pptr.py --output-dir ./output
-
+## Test
+python test.py --output-dir ./output
 
 ## Citation
 ```
