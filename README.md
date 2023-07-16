@@ -8,6 +8,19 @@ python train_pptr.py --output-dir ./output
 ## Test
 python test.py --output-dir ./output
 
+## Install
+These packages are needed:
+```
+torch
+numpy
+torchvision
+```
+This code is also based on the environment of pointnet++, so you should install it using following command:
+```
+cd ./modules
+pip install .
+```
+
 ## Citation
 ```
 @InProceedings{Liu_2022_CVPR,
