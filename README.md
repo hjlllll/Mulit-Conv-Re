@@ -2,6 +2,7 @@
 code of cvpr HOI4D workshop action segmentation
 
 modified from https://github.com/hoi4d/HOI4D_ActionSeg
+pdf: assets/Multi_scale_convolution_for_spatio_temporal_modeling_4d_point_cloud.pdf
 
 ## Train
 python train_pptr.py --output-dir ./output
