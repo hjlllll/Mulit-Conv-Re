@@ -1,5 +1,5 @@
 # mulit-conv-re
-code of cvpr HOI4D workshop action segmentation
+code of cvpr HOI4D workshop action segmentation track (2nd prize)
 
 modified from https://github.com/hoi4d/HOI4D_ActionSeg
 
