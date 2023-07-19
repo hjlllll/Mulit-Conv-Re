@@ -5,7 +5,7 @@ modified from https://github.com/hoi4d/HOI4D_ActionSeg
 
 pdf: assets/Multi_scale_convolution_for_spatio_temporal_modeling_4d_point_cloud.pdf
 
-Pretrained model is provided in[link]()
+Pretrained model is provided in [link]()
 ## Train
 python train_pptr.py --output-dir ./output
 ## Test
